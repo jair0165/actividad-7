@@ -1,0 +1,92 @@
+/* font-family: 'Alfa Slab One', cursive; */
+
+
+footer {
+    background-color: #aaa;
+}
+
+h1, h2 {
+    font-family:'Alfa Slab One', cursive;
+}
+
+.hero {
+    background: url(../img/Header.jpg) no-repeat;
+    background-size: cover;
+    height: 0.5vh;
+    min-height: 600px;
+    color: white;
+}
+
+.Lista-curiosidades {
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+}
+
+.Lista-curiosidades li a {
+    background-color: #fff;
+    font-family: 'Alfa Slab One', cursive;
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: #a0a0a0;
+    transition: all .2s ease-in-out;
+    display: block;
+}
+
+.Lista-curiosidades li a:hover {
+   color: #212529;
+   background: #dadada;
+}
+
+.Lista-curiosidades li a img {
+    width: 120px;
+    height: 50px;
+    filter: grayscale();
+    transition: all .2s ease-in-out;
+    margin-right: 1rem;
+    opacity: 0.7;
+}
+
+.Lista-curiosidades li a:hover img {
+    filter: none;
+    margin-right: 1.4rem;
+    opacity: 1;
+}
+
+.testimonios { 
+   /*  background-color:rgba(0, 0, 0, 0.481) ;*/
+    padding-bottom: 4rem !important;
+}
+
+.testimonio { 
+    text-align: center;
+    padding: 50px 30px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon { 
+    background-image: none;
+}
+
+.carousel-control-prev-icon:after,
+.carousel-control-next-icon:after { 
+    font-family: "FontAwesome";
+    font-size: 30px;
+    color: #000;
+}
+
+
+.carousel-indicators li { 
+    background-color: #000;
+}
+
+carousel-control-next-icon
+
+
+
+
+
+
+
+
+
